@@ -1,0 +1,92 @@
+body{
+  background-color: rgb(222, 208, 195);
+  margin-left: 0px;
+  margin-right: 0px;
+  background-position: center;
+}
+form {
+  display: flex; 
+  margin-left: 550px;
+}
+
+input[type="search"] {
+  padding: 5px;
+  border: 3px solid rgba(154, 102, 54, 0.771);
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+button {
+  background-color: rgb(12, 137, 60); /* Colore di sfondo del bottone */
+  color: rgb(255, 255, 255);
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #8c5018; 
+}
+
+.h1{
+  color: rgb(244, 162, 118) ;
+}
+
+
+  .header {
+   color: rgb(244, 162, 118) ;
+   margin-left: 10px;
+
+}
+
+
+.cover{
+  padding-block: 90px;
+  padding-inline: 5px;
+  background-image: url("../img/demetra.png");
+background-position:center;
+}
+
+.imgminimal {
+  width: 750px;
+  height: 550px; ;
+  position: relative;
+ left: 590PX;
+
+}
+.organic{
+  width: 750px;
+  height: 520px; ;
+  
+  }
+  .prima{
+    width: 750px;
+    height: 520px;
+    position: relative;
+    left: 590PX;
+
+
+  }
+
+footer{
+	border-top: 3px solid rgba(154, 102, 54, 0.771);
+	text-align:center;
+	padding:20px 10px;
+	line-height: 1.6em;
+	font-size:0.8em;
+	background-color: rgb(237, 221, 200);
+	color:#8c5018;
+}
+.footerlogo {
+  width:100px ;
+}
+.imageistagram{
+  width: 60px;
+}
+.imagefacebook{
+  width: 50px;
+}
+.imagetiktok{
+  width: 50px;
+}
